@@ -1,6 +1,6 @@
 
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto Condensed';
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
@@ -8,14 +8,16 @@
         }
 
         header {
-            background-color: #007BFF;
+            background-color: #2f465e; font-size: 30px;
+            font-family: 'Roboto Condensed';
             padding: 10px;
             text-align: center;
             color: #fff;
         }
 
         nav {
-            background-color: #333;
+            background-color: #87cbd9;
+            padding: 20px;
             overflow: hidden;
         }
 
@@ -24,7 +26,8 @@
             display: block;
             color: white;
             text-align: center;
-            padding: 14px 16px;
+            padding: 14px;
+            font-size: 17px;
             text-decoration: none;
         }
 
